@@ -188,7 +188,7 @@ spark.stop()
 
 
 # run spark job without cron
-# docker run -it --rm -v "${PWD}/yn_sales_project_final:/app" -w /app bitnami/spark spark-submit spark_kpi_file_yn.py --Final_executed
+# docker run -it --rm -v "${PWD}/yn_sales_project_final:/app" -w /app bitnami/spark spark-submit spark_file_for_cron.py --Final_executed
 
 
 # commands to execute for running cron job

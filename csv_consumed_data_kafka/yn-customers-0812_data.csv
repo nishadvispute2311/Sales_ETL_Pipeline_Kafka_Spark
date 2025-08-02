@@ -4,4 +4,65 @@ C_8371307,David Bailey,male,davidbailey@email.com,(336)220-8228,2025-05-18 19:27
 C_92903003,Judith Wood,female,judithwood@email.com,+1-399-471-2014x47570,2025-05-18 19:27:56.296011,Lake Jorge,Silver
 C_36900539,Judith Manning,female,judithmanning@email.com,001-816-561-7789x444,2025-05-18 19:27:56.306170,Hoganbury,Silver
 C_12889290,Mr. Robert Jacobs DVM,male,mr.robert@email.com,202-625-2405x310,2025-05-18 19:27:56.306746,South Christinafurt,Gold
-C_53553308,Nicole Fox,female,nicolefox@email.com,304-687-1077,2025-05-18 19:27:56.306845,Mcmillanborough,Bronze
+C_53553308,Nicole Fox,female,nicolefox@email.com,304-687-1077,2025-05-18 19:27:56.306845,Mcmillanborough,Bronzecustomer_id,name,gender,email,phone,signup_date,location,membership_type
+C_18377778,Patrick Lopez,male,patricklopez@email.com,001-713-412-0351x86398,2025-07-31 01:26:35.921084,New Heatherchester,Gold
+C_17085655,Daniel Sanchez,male,danielsanchez@email.com,001-829-688-9058x7081,2025-07-31 01:26:35.922085,Joshuaberg,Gold
+C_70496335,Mario Hardy,male,mariohardy@email.com,001-651-267-5106,2025-07-31 01:26:35.922820,New Troyfort,Gold
+C_68087939,Michele Donovan,female,micheledonovan@email.com,(836)680-7659x3295,2025-07-31 01:26:35.922820,West Michael,Silver
+C_92748910,Jeffery Sweeney,male,jefferysweeney@email.com,671-383-0805,2025-07-31 01:26:35.923324,Nancybury,Bronze
+C_57102715,Eric Garcia,male,ericgarcia@email.com,+1-840-433-1178x44518,2025-07-31 01:26:35.923557,Port William,Silver
+C_41192544,Emily Ramos,female,emilyramos@email.com,433-417-6833x071,2025-07-31 01:26:35.923557,North Angelaside,Bronze
+C_2263871,Craig King,male,craigking@email.com,(984)736-8041x6439,2025-07-31 01:26:35.923557,Port Dana,Silver
+C_80776390,Deborah Carney,female,deborahcarney@email.com,371.449.6072x8845,2025-07-31 01:26:35.923557,Port Ronald,Bronze
+C_45402676,Mrs. Sherry Bryant,female,mrs.sherry@email.com,(738)452-1295x9077,2025-07-31 01:26:35.924846,Leemouth,Silver
+C_55948527,Rebecca Larson,female,rebeccalarson@email.com,937.453.7403x303,2025-07-31 01:26:35.925069,Port Timothychester,Silver
+C_40160489,Martha Hernandez,female,marthahernandez@email.com,001-721-602-1293x04571,2025-07-31 01:26:35.925069,East Danielport,Silver
+C_85124430,Stephen Warner,male,stephenwarner@email.com,442.682.3587x55761,2025-07-31 01:26:35.925069,East Sarahhaven,Silver
+C_31109350,Amanda Lopez,female,amandalopez@email.com,(494)869-2657,2025-07-31 01:26:35.925069,Coxstad,Bronze
+C_99259570,Francisco Smith,male,franciscosmith@email.com,601.539.4718,2025-07-31 01:26:35.925069,Timothystad,Silver
+C_37792949,Dustin Tran,male,dustintran@email.com,314.601.4001,2025-07-31 01:26:35.925069,Donaldburgh,Gold
+C_82698660,Wesley Baxter,male,wesleybaxter@email.com,706-839-0016,2025-07-31 01:26:35.926135,Lake Andrewport,Bronze
+C_61297734,Henry Wells,male,henrywells@email.com,001-240-927-1604x125,2025-07-31 01:26:35.926266,North Jamesberg,Bronze
+C_75170268,Mark Harris,male,markharris@email.com,608-954-8672x02996,2025-07-31 01:26:35.926594,East Charlesland,Silver
+C_51540169,Steven Andersen,male,stevenandersen@email.com,+1-594-346-5260x2437,2025-07-31 01:26:35.926750,Garyfurt,Bronze
+C_31939037,Michael Avery,male,michaelavery@email.com,796-914-5122x1688,2025-07-31 01:26:35.926750,Donbury,Gold
+C_35323653,Erin Murphy,female,erinmurphy@email.com,(720)366-9956,2025-07-31 01:26:35.926750,Beanfort,Gold
+C_30413384,Tonya Coleman,female,tonyacoleman@email.com,3733312917,2025-07-31 01:26:35.927251,Cortezfort,Bronze
+C_71238299,Edward Rodriguez,male,edwardrodriguez@email.com,001-670-733-8508x42883,2025-07-31 01:26:35.927251,West Debra,Silver
+C_12523890,Jennifer Stewart,female,jenniferstewart@email.com,3858751350,2025-07-31 01:26:35.927251,Duranville,Bronze
+C_45355430,Heidi Thompson,female,heidithompson@email.com,(628)652-6804,2025-07-31 01:26:35.927251,East Claireton,Gold
+C_48561770,Edwin Murray,male,edwinmurray@email.com,+1-636-864-9723x606,2025-07-31 01:26:35.928210,South Karen,Silver
+C_23410960,Tommy Gibson,male,tommygibson@email.com,001-394-706-0683x06586,2025-07-31 01:26:35.928437,Leeland,Silver
+C_6962605,Kevin Ortiz,male,kevinortiz@email.com,001-275-632-5003x771,2025-07-31 01:26:35.928437,Salinasside,Gold
+C_26896164,Alexis Munoz,female,alexismunoz@email.com,001-470-410-2634x685,2025-07-31 01:26:35.928744,West Adamside,Silver
+C_51139730,Alicia James,female,aliciajames@email.com,734-929-5702x320,2025-07-31 01:26:35.928744,Kathleenstad,Silver
+C_55896363,Kevin Day,male,kevinday@email.com,532.458.5254x8002,2025-07-31 01:26:35.929195,East Barry,Bronze
+C_79738734,Chad Smith,male,chadsmith@email.com,(828)249-1907,2025-07-31 01:26:35.929195,Lake Rebeccahaven,Bronze
+C_58467378,Cynthia Andersen,female,cynthiaandersen@email.com,546.330.0490,2025-07-31 01:26:35.929195,Juliaberg,Bronze
+C_53874149,Shannon Harris,male,shannonharris@email.com,640.894.9622x93796,2025-07-31 01:26:35.929704,Johnsonborough,Bronze
+C_24416400,Ricardo Ball,male,ricardoball@email.com,001-421-862-8799x369,2025-07-31 01:26:35.929704,South Jasonchester,Gold
+C_41604403,Nicholas Mcconnell,male,nicholasmcconnell@email.com,6539574046,2025-07-31 01:26:35.930194,West Beckychester,Silver
+C_13725243,Laura Baker,female,laurabaker@email.com,+1-698-449-1731x640,2025-07-31 01:26:35.930194,Harrisonborough,Silver
+C_39338225,Dr. David Lynch DVM,male,dr.david@email.com,813.680.3922x08954,2025-07-31 01:26:35.930714,North Davidton,Bronze
+C_81907830,Clifford Eaton,male,cliffordeaton@email.com,310.793.1456x840,2025-07-31 01:26:35.930791,North Jeffery,Gold
+C_35886554,Christy Anderson,female,christyanderson@email.com,+1-240-360-9967x14847,2025-07-31 01:26:35.931194,Port Kimton,Bronze
+C_48375973,Linda Murphy,female,lindamurphy@email.com,001-593-458-5469,2025-07-31 01:26:35.931306,East Juan,Gold
+C_28135141,Carlos James,male,carlosjames@email.com,(870)720-7583x91702,2025-07-31 01:26:35.931635,Michaelside,Silver
+C_64806144,Alicia Campbell,female,aliciacampbell@email.com,895-861-1501x0881,2025-07-31 01:26:35.931703,South Michael,Gold
+C_90253599,Christopher Vazquez,male,christophervazquez@email.com,(417)641-1429,2025-07-31 01:26:35.931703,Lake Jamesside,Gold
+C_51477129,Kaitlyn Case,female,kaitlyncase@email.com,310.395.9076,2025-07-31 01:26:35.932194,North William,Gold
+C_51813743,Tiffany Jones,female,tiffanyjones@email.com,001-865-831-4400,2025-07-31 01:26:35.932194,Gonzaleston,Bronze
+C_61565006,Brian Santos,male,briansantos@email.com,4433195083,2025-07-31 01:26:35.932194,Ryanburgh,Gold
+C_12669651,Matthew Hoffman,male,matthewhoffman@email.com,209-928-8119x7037,2025-07-31 01:26:35.932694,New Lisaberg,Bronze
+C_70327817,Kenneth Hall,male,kennethhall@email.com,311-592-8155x77662,2025-07-31 01:26:35.932694,Bennettville,Gold
+C_25034982,Todd George,male,toddgeorge@email.com,2548473200,2025-07-31 01:26:35.932694,Hudsonbury,Bronze
+C_44235522,Mrs. Tara Long,female,mrs.tara@email.com,234-475-2506,2025-07-31 01:26:35.933194,West Rachelmouth,Bronze
+C_63733520,Craig Livingston,male,craiglivingston@email.com,591.395.6975,2025-07-31 01:26:35.933194,South Dave,Bronze
+C_75749453,James Moore,male,jamesmoore@email.com,+1-670-899-0539x310,2025-07-31 01:26:35.933194,Loritown,Silver
+C_3152976,Susan Combs,female,susancombs@email.com,(649)413-4287x81049,2025-07-31 01:26:35.933711,Lake Juan,Silver
+C_37901844,John Villarreal,male,johnvillarreal@email.com,001-984-343-6484x2225,2025-07-31 01:26:35.933711,Williamport,Gold
+C_41708548,Robert Moran DVM,male,robertmoran@email.com,001-353-995-1485x183,2025-07-31 01:26:35.933711,Sherrybury,Bronze
+C_95507801,Brittany Burns,female,brittanyburns@email.com,+1-655-501-7976x087,2025-07-31 01:26:35.934194,Peterstown,Silver
+C_84722785,Tammy Acosta,female,tammyacosta@email.com,918.678.7755x3902,2025-07-31 01:26:35.934194,Waltersbury,Bronze
+C_81395545,Amanda Elliott,female,amandaelliott@email.com,264.446.7230x0386,2025-07-31 01:26:35.934194,Dayburgh,Gold
+C_68605960,Rhonda Navarro,female,rhondanavarro@email.com,6655885612,2025-07-31 01:26:35.934713,Novakberg,Gold
